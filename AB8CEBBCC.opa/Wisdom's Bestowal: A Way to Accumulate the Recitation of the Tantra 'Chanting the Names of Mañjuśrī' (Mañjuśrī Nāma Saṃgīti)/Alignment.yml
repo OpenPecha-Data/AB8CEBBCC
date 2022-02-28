@@ -1,0 +1,25 @@
+segment_sources:
+  P6719066A:
+    type: origin_type
+    relation: translation
+    language: en
+  P475C06B4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e3877b256ee541ba975c80f9b826982a:
+    P6719066A: 396ac02dfb6e42b998b7acec5c4d4203
+    P475C06B4: b561b19458e34888a979c344f70b4e74
+  2cf3066d59344fc482f0e1ba819c4b0d:
+    P6719066A: e54c68c99aee4ac58cd037e4c8e63958
+    P475C06B4: ff07f0baca7a4e3097d27fd30b679dfc
+  8e96e46d3fa24886863d6b39ae0e7b6c:
+    P6719066A: 4046a318b70c4eb6af758e0a4091bc11
+    P475C06B4: 52f36e96fd604a3ebb313883f57f6180
+  2de3fded9a3f4322995943eae778091e:
+    P6719066A: c4b2069ec1b14b8f830a8da6744fb464
+    P475C06B4: 666e56d5eb314315b7ea88b0510b243a
+  7709f16a84e84360aa550b56e8c16f8a:
+    P6719066A: aa81649db9834743962c269e077bc012
+    P475C06B4: 3e80b483b11241e99ba879d1edfe5900

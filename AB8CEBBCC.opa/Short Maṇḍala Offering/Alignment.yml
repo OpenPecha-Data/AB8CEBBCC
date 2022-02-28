@@ -1,0 +1,16 @@
+segment_sources:
+  P6719066A:
+    type: origin_type
+    relation: translation
+    language: en
+  P475C06B4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c9da5945f125454e8ed30fbe13c2cce6:
+    P6719066A: ff14dc5a671c41b28cafe7a946ab802d
+    P475C06B4: ee239b9020bd4293b3523fc7fa0d36db
+  e243a1bbac5b4d5bbe92fe9c1d35294e:
+    P6719066A: 77cae63e867149cf94df5e7654cbf205
+    P475C06B4: 037cfee1339c478c9adad6ea782d8970
